@@ -2,6 +2,6 @@
 
 This is a File Metadata microservices project for Free Code Camp Backend Development Course.
 
-The base code is from the File Metadata Microservice Boilerplate linked above. I added the routing necessary to complete the user stories for the challenge.
+The base code is from the File Metadata Microservice Boilerplate linked above. I added the routing and logic necessary to complete the user stories for the challenge.
 
 A live server version can be found on my [replit account](https://replit.com/@JacobSwartzentr).
